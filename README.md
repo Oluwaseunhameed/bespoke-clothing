@@ -5,6 +5,6 @@
 ### [Live Site](https://bespoke-clothing.herokuapp.com/)
 
 
-COVID-19 WORLD TRACKER is a web application developed with React.js, Chart.js, e.t.c.
+Bespoke-Clothing is an ecommerce website built with React.
 
-This web application shows covid-19 daily records in all countries
+Please note that this project is still ongoing..
